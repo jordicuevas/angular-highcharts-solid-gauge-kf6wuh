@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+
+.highcharts-pane {
+ background: rgb(170,176,176);
+background: linear-gradient(180deg, rgba(170,176,176,1) 1%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 95%, rgba(170,176,176,1) 100%);
+}
+
+.highcharts-pane-labels {
+  font-size:20px !important
+}
